@@ -71,8 +71,8 @@ These analyses help characterize how the damper behaves under different impact v
 ## Installation
 
 1. Clone the respository:
-git clone https://github.com/tylerbarrows/CFD.git
-cd CFD
+git clone https://github.com/tylerbarrows/TwoMassSpringDamper.git
+cd TwoMassSpringDamper
 
 2. Install required dependencies
 Numpy
